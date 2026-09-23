@@ -50,7 +50,7 @@ Every donation is highly apreciated, this is compeletely optional.
 - [Shiny](https://github.com/rocult/shiny)/[Medal](https://github.com/shrimp-nz/medal)
 
 ## License
-[![Dex: Eclipse License](https://img.shields.io/badge/Dex++-License-green)](https://github.com/rileybeerblx1/DexEclipse/blob/main/LICENSE)
+[![Dex: Eclipse License](https://img.shields.io/badge/DexEC-License-green)](https://github.com/rileybeerblx1/DexEclipse/blob/main/LICENSE)
 
 [![USSI License](https://img.shields.io/badge/USSI-License-green)](https://github.com/luau/UniversalSynSaveInstance/blob/main/LICENSE)
 
