@@ -1,4 +1,4 @@
-# Dex++
+# Dex: Eclipse
 ![Preview](./preview.png)
 
 Dex: Eclipse is an extended version of Moon's Dex, made to fulfill some Moon's Dex prophecy.
