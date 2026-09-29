@@ -52,6 +52,8 @@ Every donation is highly apreciated, this is compeletely optional.
 ## License
 [![Dex: Eclipse License](https://img.shields.io/badge/DexEC-License-green)](https://github.com/rileybeerblx1/DexEclipse/blob/main/LICENSE)
 
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-Dex:-Eclipse-229406)](https://scriptblox.com/script/Universal-Script-Dex:-Eclipse-229406)
+
 [![USSI License](https://img.shields.io/badge/USSI-License-green)](https://github.com/luau/UniversalSynSaveInstance/blob/main/LICENSE)
 
 ## Credits
