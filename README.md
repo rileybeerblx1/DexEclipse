@@ -14,7 +14,7 @@ Since the original Dex is the last release and Moon have discontinued it, it sti
 Here are the features that were added/fixed in Dex: Eclipse
 - Using New Roblox Studio Icons
 - Updated API
-- Uses Konstant, [Advanced Decompiler](https://github.com/w-a-e/Advanced-Decompiler-V3) and [Shiny](https://github.com/AZYsGithub/shiny)/[Medal](https://github.com/shrimp-nz/medal) as fallback decompilers (for shitsploits who doesn't have it)
+- Uses Konstant, [Advanced Decompiler](https://github.com/w-a-e/Advanced-Decompiler-V3) and [Shiny](https://github.com/AZYsGithub/shiny)/[Medal](https://github.com/shrimp-nz/medal), LuaExpert as fallback decompilers (for shitsploits who doesn't have it)
     > 'getscriptbytecode' is required
 - Uses [USSI](https://github.com/luau/UniversalSynSaveInstance/tree/main) as fallback saveinstance
 - Mobile Input Support (Window drag, resizing works fully on touch)
@@ -52,7 +52,7 @@ Every donation is highly apreciated, this is compeletely optional.
 ## License
 [![Dex: Eclipse License](https://img.shields.io/badge/DexEC-License-green)](https://github.com/rileybeerblx1/DexEclipse/blob/main/LICENSE)
 
-[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-Dex:-Eclipse-229406)](https://scriptblox.com/script/Universal-Script-Dex:-Eclipse-229406)
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-Dex:-Eclipse-229406)]
 
 [![USSI License](https://img.shields.io/badge/USSI-License-green)](https://github.com/luau/UniversalSynSaveInstance/blob/main/LICENSE)
 
